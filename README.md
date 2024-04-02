@@ -1,4 +1,4 @@
-Use Multi-agent deep deterministic policy gradient (MADDPG) to solve out the Feedback NE in a differential game model for two players: government and ZEV manufacturer.
+Use Multi-agent deep deterministic policy gradient (MADDPG) in Python to solve out the Feedback NE in a differential game model for two players: government and ZEV manufacturer.
 
 Aiming to find the best policy strategy for the government.
 
